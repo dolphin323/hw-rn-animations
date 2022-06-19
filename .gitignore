@@ -1,0 +1,9 @@
+node_modules/
+
+# Expo
+.expo/
+web-build/
+dist/
+
+# macOS
+.DS_Store
